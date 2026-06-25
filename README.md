@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**harshitaojha123/harshitaojha123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Third Year Computer Science Student
+📍 Kanpur, India
 
-Here are some ideas to get you started:
+🔹 C++
+🔹 JavaScript
+🔹 React
+🔹 Node.js
+🔹 MongoDB
+🔹 Express
+🔹 Git
+🔹 DSA
+🔹 Aiml
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+• AI/ML
+• System Design
+• Advanced React
+
+📫 Email
+ojhaharshita015@gmail.com
+
+🔗 LinkedIn
+linkedin.com/in/harshita-ojha-4970b4296
