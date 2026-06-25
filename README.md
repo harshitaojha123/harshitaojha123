@@ -4,7 +4,7 @@
 
 ### 💻 Software Developer | 🚀 MERN Stack | 📚 DSA Enthusiast | 🤖 AI/ML Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Third+Year+Computer+Science+Student;Full+Stack+Developer;300%2B+LeetCode+Problems;Always+Learning+New+Technologies;Open+to+Software+Internships" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Third+Year+Computer+Science+Student;Full+Stack+Developer;500%2B+LeetCode+Problems;Always+Learning+New+Technologies;Open+to+Software+Internships" />
 
 </div>
 
